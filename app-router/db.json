@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first content",
+      "content": "this is first content"
+    },
+    {
+      "id": 2,
+      "title": "second content",
+      "content": "this is second content"
+    },
+    {
+      "title": "third",
+      "content": "this is third content",
+      "id": 3
+    },
+    {
+      "title": "네번째",
+      "content": "네번째",
+      "id": 4
+    }
+  ]
+}
